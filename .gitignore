@@ -1,0 +1,19 @@
+# Dataset (download separately — see README)
+data/
+61262.txt
+*.zip
+
+# Model checkpoints / vocab
+*.keras
+*.h5
+vocab.npy
+wordLM/
+
+# Notebook / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
